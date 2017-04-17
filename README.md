@@ -9,7 +9,7 @@ AHPagingMenuViewController 1.0. Menu Paging like UINavigationController used in 
 ![AHPagingMenuViewController](https://github.com/andrehenrique92/AHPagingMenuViewController/blob/master/assets/icon2.gif)
  
 
-##Installation
+## Installation
 
 1. Add the AHPagingMenuViewController Folder into your project. Easy, easy!
 
